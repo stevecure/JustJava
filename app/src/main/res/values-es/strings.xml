@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solo Java</string>
+    <string name="thank_you" translatable="false">Gracius</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="quantity">Cantidad</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="whipped_cream">Crema batida</string>
+</resources>
